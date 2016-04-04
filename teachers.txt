@@ -1,0 +1,10 @@
+teacher 4,programacion 4,7:00 a.m.
+teacher 3,programacion 2,7:00 a.m.
+teacher 4,programacion 3,8:30 a.m.
+teacher 1,introduccion a la computacion,10:10 a.m.
+teacher 2,programacion 1,10:10 a.m.
+teacher 4,estructura de datos,10:10 a.m.
+teacher 5,diseño logico digital,10:10 a.m.
+teacher 4,organizacion de archivos,11:30 a.m.
+teacher 5,organizacion de computadoras,3:40 p.m.
+teacher 6,Sistemas de Informacion,3:40 p.m.

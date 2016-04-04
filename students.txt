@@ -1,0 +1,25 @@
+alumno 1,introduccion a la computacion,7:00 a.m.
+alumno 1,diseño logico digital,10:10 a.m.
+alumno 1,programacion 1,10:10 a.m.
+alumno 2,estructura de datos,10:10 a.m.
+alumno 2,organizacion de computadoras,10:10 a.m.
+alumno 2,programacion 1,10:10 a.m.
+alumno 3,organizacion de computadoras,3:40 p.m.
+alumno 3,programacion 1,10:10 a.m.
+alumno 3,diseño logico digital,10:10 a.m.
+alumno 3,organizacion de computadoras,10:10 a.m.
+alumno 3,introduccion a la computacion,10:10 a.m.
+alumno 4,organizacion de computadoras,10:10 a.m.
+alumno 4,programacion 1,10:10 a.m.
+alumno 4,diseño logico digital,10:10 a.m.
+alumno 4,organizacion de computadoras,10:10 a.m.
+alumno 4,introduccion a la computacion,10:10 a.m.
+alumno 5,estructura de datos,10:10 a.m.
+alumno 5,organizacion de computadoras,10:10 a.m.
+alumno 5,programacion 1,10:10 a.m.
+alumno 2,introduccion a la computacion,10:10 a.m.
+alumno 2,diseño logico digital,10:10 a.m.
+alumno 2,programacion 1,10:10 a.m.
+alumno 2,programacion 1,10:10 a.m.
+alumno 2,programacion 1,10:10 a.m.
+alumno 2,programacion 1,10:10 a.m.

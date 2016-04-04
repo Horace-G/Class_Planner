@@ -1,0 +1,9 @@
+introduccion a la computacion
+programacion 1
+programacion 2
+programacion 3
+programacion 4
+estructura de datos
+organizacion de archivos
+diseño logico digital
+organizacion de computadoras
